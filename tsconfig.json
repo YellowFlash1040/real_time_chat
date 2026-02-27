@@ -24,6 +24,7 @@
     "module": "CommonJS",
     "rootDir": "./src",
     "moduleResolution": "Node",
+    "removeComments": true,
     //
     "allowUnreachableCode": false,
     "allowUnusedLabels": false

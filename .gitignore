@@ -11,3 +11,4 @@
 !package.json
 !nodemon.json
 !tsconfig.json
+!vitest.config.ts

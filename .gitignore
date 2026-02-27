@@ -1,0 +1,13 @@
+*
+!*/
+.*
+!.gitignore
+!.gitkeep
+!**/src/**/*.js
+!**/src/**/*.ts
+!.prettierrc
+!.eslintrc.cjs
+!pnpm-lock.yaml
+!package.json
+!nodemon.json
+!tsconfig.json

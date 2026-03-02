@@ -6,7 +6,8 @@
     "dev": "tsx watch src/main.ts",
     "build": "tsc",
     "test": "vitest",
-    "start": "node dist/main.js"
+    "start": "node dist/main.js",
+    "clean": "rm -rf dist"
   },
   "packageManager": "pnpm@10.30.0",
   "dependencies": {

@@ -9,6 +9,9 @@
     "start": "node dist/main.js"
   },
   "packageManager": "pnpm@10.30.0",
+  "dependencies": {
+    "tslib": "^2.8.1"
+  },
   "devDependencies": {
     "@types/node": "^25.3.2",
     "tsx": "^4.21.0",

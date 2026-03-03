@@ -7,10 +7,9 @@
 !**/src/**/*.ts
 !**/tests/**/*test.js
 !**/tests/**/*test.ts
-!.prettierrc
-!.eslintrc.cjs
-!pnpm-lock.yaml
-!package.json
-!nodemon.json
-!tsconfig.json
-!vitest.config.ts
+!./.prettierrc
+!./.eslintrc.cjs
+!./pnpm-lock.yaml
+!./package.json
+!./tsconfig.json
+!./vitest.config.ts

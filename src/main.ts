@@ -1,5 +1,9 @@
-// src/index.js
+import express from "express";
 
-const message: string = 'Hello world';
+const server = express();
 
-console.log(message);
+const PORT = 3000;
+
+server.listen(PORT, () => {
+  console.log(`Server is listening on the port ${PORT}`);
+});

@@ -7,9 +7,9 @@
 !**/src/**/*.ts
 !**/tests/**/*test.js
 !**/tests/**/*test.ts
-!./.prettierrc
-!./eslint.config.mts
-!./pnpm-lock.yaml
-!./package.json
-!./tsconfig.json
-!./vitest.config.ts
+!.prettierrc
+!eslint.config.mts
+!pnpm-lock.yaml
+!package.json
+!tsconfig.json
+!vitest.config.ts
